@@ -1,0 +1,1 @@
+The Out folder is there because IntelliJ converts your source code to Byte code
